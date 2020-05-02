@@ -1,2 +1,2 @@
-# this project include catalogue movie with TMDB api .
+# this project is the challenge of catalogue movie app
 
