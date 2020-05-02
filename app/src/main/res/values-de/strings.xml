@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">die Einstellungen</string>
+    <string name="action_notification">Benachrichtigung</string>
+    <string name="err_load_failed">Verbindung zu Daten fehlgeschlagen. Bitte überprüfen Sie Ihre Internetverbindungen!</string>
+    <string name="key_reminder_daily">reminder_daily</string>
+    <string name="key_reminder_upcoming">reminder_upcoming</string>
+    <string name="key_setting_locale">setting_locale</string>
+    <string name="label_now_playing">Läuft gerade</string>
+    <string name="label_upcoming">Bevorstehende</string>
+    <string name="label_favorite">Lieblings</string>
+    <string name="label_release_date">Veröffentlichungsdatum</string>
+    <string name="label_vote">Durchschnittliche Bewertung:</string>
+    <string name="label_genres">Filmgenres</string>
+    <string name="label_overview">Überblick</string>
+    <string name="label_production_details">Produktionsdetails</string>
+    <string name="label_belongs">Belongs To Collection</string>
+    <string name="label_budget">Budget</string>
+    <string name="label_revenue">Revenue</string>
+    <string name="label_companies">Companies</string>
+    <string name="label_countries">Countries</string>
+    <string name="label_detail">Detail</string>
+    <string name="label_share">Teilen</string>
+    <string name="label_setting_menu">Rahmen</string>
+    <string name="label_preferences">Einstellungen</string>
+    <string name="label_search">Suche nach Filmtitel</string>
+    <string name="label_search_text">Suche</string>
+    <string name="label_daily_reminder">Tägliche Erinnerungsbenachrichtigung ist jetzt</string>
+    <string name="label_upcoming_reminder">Upcoming Reminder Notification Is Now </string>
+    <string name="label_activated">Activated ! </string>
+    <string name="label_deactivated">Deactivated ! </string>
+    <string name="label_daily_reminder_title">Daily Reminder Notification</string>
+    <string name="label_daily_reminder_summary">Turn On/Off Daily Reminder</string>
+    <string name="label_upcoming_reminder_title">Upcoming Reminder Notification</string>
+    <string name="label_upcoming_reminder_summary">Turn On/Off Upcoming Reminder</string>
+    <string name="label_setting_locale_title">Gebietsschema einstellen</string>
+    <string name="label_setting_locale_summary">Ändern Sie Ihre Telefonlokalisierung</string>
+    <string name="label_alarm_daily_reminder">Hi ?!  Get Ready to pick your new movies today ? </string>
+    <string name="share_description">Share Our Apps</string>
+    <string name="cv_save">Zu den Favoriten hinzugefügt</string>
+    <string name="cv_remove">This Movie Has Been Removed From Favorite List !</string>
+    <string name="appwidget_text">Lieblingsfilme</string>
+    <string name="add_widget">Add Widget</string>
+    <string name="empty_text">Sie haben noch keine Lieblingsfilme</string>
+
+</resources>
